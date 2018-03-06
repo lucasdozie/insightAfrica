@@ -1,0 +1,48 @@
+.container {
+    width: 20%;
+    padding: 20px;
+    float: left;
+}
+.wrapper {
+    border: 1px solid;
+}
+.btn {
+    padding: 7px 30px;
+    background: transparent;
+    font-size: 16px;
+    margin-left: 10px;
+}
+.inlineBlock {
+    display: inline-block;
+}
+.listSubj {
+    /* border: 1px solid gray */
+    display: inline-block;
+    width: 100%;
+}
+.listSubj:hover {
+    background: steelblue
+}
+.sn {
+    display: inline-block;
+    width: auto;
+}
+
+.selected {
+    background: steelblue
+}
+.upprCase {
+    text-transform: capitalize
+}
+.inputFld {
+    font-size: 20px;
+    width: 99%;
+    padding: 10px 0;
+}
+.codeWrapper {
+    margin-top: 20px;
+}
+.sectionCode {
+    width: 100%;
+
+}
