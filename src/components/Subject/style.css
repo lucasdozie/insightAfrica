@@ -16,11 +16,18 @@
     display: inline-block;
 }
 .listSubj {
-    border: 1px solid gray
+    /* border: 1px solid gray */
+    display: inline-block;
+    width: 100%;
 }
 .listSubj:hover {
     background: steelblue
 }
+.sn {
+    display: inline-block;
+    width: 96%
+}
+
 .selected {
     background: steelblue
 }
@@ -31,4 +38,11 @@
     font-size: 20px;
     width: 99%;
     padding: 10px 0;
+}
+.codeWrapper {
+    margin-top: 20px;
+}
+.sectionCode {
+    width: 100%;
+
 }

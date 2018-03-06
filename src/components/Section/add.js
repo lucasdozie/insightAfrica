@@ -1,9 +1,6 @@
 import React, { Component } from 'react'
 import './style.css'
 
-
-
-
 export default class AddSection extends Component {
 
     render() {
